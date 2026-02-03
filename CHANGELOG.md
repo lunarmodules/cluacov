@@ -1,5 +1,9 @@
 # Changelog
 
+## unreleased
+
+Added Lua 5.5 compatibility.
+
 ## 0.1.4 (2024-08-27)
 
 Updated LuaJIT embedded header to luajit-2.1 rolling release code
