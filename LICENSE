@@ -1,6 +1,7 @@
 The MIT License (MIT)
 
 Copyright (C) 2016 - 2018 Peter Melnichenko
+Copuright (C) 2019 - 2026 LunarModules maintainers
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -44,9 +45,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 ===============================================================================
-cluacov includes code from Lua 5.1/5.2/5.3, which also use MIT license:
+cluacov includes code from Lua 5.1/5.2/5.3/5.4/5.5, which also use MIT license:
 
-Copyright (C) 1994-2016 Lua.org, PUC-Rio.
+Copyright (C) 1994-2026 Lua.org, PUC-Rio.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
