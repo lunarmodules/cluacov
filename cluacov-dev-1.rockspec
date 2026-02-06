@@ -27,7 +27,7 @@ description = {
 
 dependencies = {
    "lua >= 5.1",
-   "luacov >= 0.13.0"
+   "luacov >= 0.13.0",
 }
 
 build = {
